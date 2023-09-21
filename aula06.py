@@ -2,7 +2,7 @@
 
 texto = ' Um texto aleatorio '
 
-print(texto[5]) #Imp''''''''''''''''''rime o sexto elemento do array, indíce 5
+print(texto[5]) #Imprime o sexto elemento do array, indíce 5
 print(texto[0 : 5]) #Imprime do índice 0 ao índice 5
 print("Tamanho: " + str(len(texto)))
 
